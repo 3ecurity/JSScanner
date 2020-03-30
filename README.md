@@ -18,3 +18,8 @@ To run the tool use
 ```
 bash script.sh
 ```
+
+⚠️：script.sh: line 13: timeout: command not found
+```
+brew install coreutils
+```
